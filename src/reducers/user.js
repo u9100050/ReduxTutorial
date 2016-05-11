@@ -1,10 +1,7 @@
-/**
- * Created by NekrasovAA on 10.05.2016.
- */
 const initialState = {
-    name: 'Гость'
-};
+  name: 'Аноним'
+}
 
-export default function user(state=initialState) {
-    return state
+export default function user(state = initialState) {
+  return state
 }
