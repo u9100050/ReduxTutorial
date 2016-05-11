@@ -1,4 +1,3 @@
-export const SET_YEAR = 'SET_YEAR';
 export const GET_PHOTO_REQUEST = 'GET_PHOTO_REQUEST';
 export const GET_PHOTO_SUCCESS = 'GET_PHOTO_SUCCESS';
 export const GET_PHOTO_FAILURE = 'GET_PHOTO_FAILURE';
